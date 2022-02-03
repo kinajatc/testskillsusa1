@@ -116,7 +116,7 @@ blockquote {
 }
 /*-------- font weight --------*/
 .font-thin-xs {
-	font-weight: 200 !important;
+	font-weight: 500 !important;
 }
 .font-thin {
 	font-weight: 300 !important;
