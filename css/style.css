@@ -1156,10 +1156,15 @@ ul.social-icons.style-four li {
 	width: 18%;
 }
 .con-info {
-	float: right;
-	width: 78%;
+	float: left;
+	width: fit-content;
 	font-size: 15px;
 }
+.contact-columns{
+	display: grid;
+	grid-template-columns: 100% 100%;
+}
+
 ul.social-icons.style-two {
 	float: left;
 	margin: 0;
