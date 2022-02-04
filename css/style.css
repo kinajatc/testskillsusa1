@@ -440,6 +440,7 @@ body {
 	float: left;
 	padding: 100px 0 50px 0;
 }
+
 .bg-color-style {
 	background: #79C0FA;
 	width: 100%;
@@ -1160,13 +1161,8 @@ ul.social-icons.style-four li {
 	width: 60%;
 }
 
-/* .container {
-	display: flex;
-	justify-content: center;
-} */
-
 .con-info {
-	width: fit-content;
+	margin: 0 auto;
 	font-size: 15px;
 }
 /* .contact-columns{
