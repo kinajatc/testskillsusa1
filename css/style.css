@@ -434,7 +434,7 @@ body {
 }
 /* =========== Parallax and Textures ============= */
 .bg-parallax {
-	background: url(../images/used-images/front-page-photo.jpg) no-repeat center bottom fixed;
+	background: url(../images/used-images/front-page-photo.png) no-repeat center bottom fixed;
 	background-size: cover;
 	width: 100%;
 	float: left;
