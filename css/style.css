@@ -1155,8 +1155,17 @@ ul.social-icons.style-four li {
 	float: left;
 	width: 18%;
 }
+
+.partners-img {
+	width: 60%;
+}
+
+/* .container {
+	display: flex;
+	justify-content: center;
+} */
+
 .con-info {
-	float: left;
 	width: fit-content;
 	font-size: 15px;
 }
