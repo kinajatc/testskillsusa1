@@ -20,13 +20,13 @@ body {
 	font-family: 'Raleway';
 	font-size: 15px;
 }
-a {
+/* a {
 	outline: none !important;
 	-webkit-transition: back 0.2s ease-out;
 	-moz-transition: all 0.2s ease-out;
 	-o-transition: all 0.2s ease-out;
 	-ms-transition: all 0.2s ease-out;
-}
+} */
 a:focus, a:hover, a:active {
 	outline: none !important;
 	text-decoration: none;
